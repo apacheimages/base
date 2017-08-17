@@ -1,4 +1,4 @@
-VERSION = 8u102b14
+VERSION = 8u144b01
 PROJECT = oracle-jre-server
 REPOSITORY = apacheimages/${PROJECT}
 
